@@ -6,4 +6,4 @@ while($x<=100) {
     else if($x%5==0) {echo "IT \n";}
     else {echo "$x\n";}
     $x++;
-}>
+}
